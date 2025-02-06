@@ -1,0 +1,7 @@
+streamlit
+shap
+pandas
+numpy
+sklearn
+matplotlib
+streamlit_shap
